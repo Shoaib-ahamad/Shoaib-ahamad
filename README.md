@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shoaib Ahamad Mev</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align ="right" alt="coading" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaib-ahamad&label=Profile%20views&color=0e75b6&style=flat" alt="shoaib-ahamad" /> </p>
 
 - 📫 How to reach me **shoaibahamadmev@gmail.com**
